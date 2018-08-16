@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="hint">Enter Your Answer Here</string>
+    <string name="submit">Submit</string>
+    <string name="q1">What are the potential mosquito breeding sites given below? Check all that apply.</string>
+    <string name="one_a">Stagnant Water</string>
+    <string name="one_b">Bundle of books</string>
+    <string name="one_c">Flower Pot</string>
+    <string name="q2">Which of the following groups of people could potentially contact Dengue?</string>
+    <string name="kids">Kids</string>
+    <string name="adults">Adults</string>
+    <string name="senior">Senior Citizens</string>
+    <string name="all">All of the above</string>
+    <string name="q3">Dengue is caused by which mosquito? Name it</string>
+    <string name="hint_three">5 letter name</string>
+    <string name="q5">Getting infected by Dengue once makes you immune to all forms of Dengue in the future?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="q6">Dengue is characterized by which of the following?</string>
+    <string name="fever_one">Fever without rash</string>
+    <string name="fever_two">Fever with rash</string>
+    <string name="fever_three">Rash without fever</string>
+    <string name="fever_four">Neither fever not rash</string>
+    <string name="q4">In dengue bleeding occurs due to deficiency of what?</string>
+    <string name="hint_four">Blood component</string>
+    <string name="heading">Dengue Awareness</string>
+    <string name="attempt">Please attempt all questions</string>
+    <string name="score">Score : #/60</string>
+    
+    <string name="about_den">
+        Dengue fever is a mosquito borne disease caused by dengue virus which is usually self limiting in most cases.
+
+However, in some people it can present with life threatening complications such Dengue Shock Syndrome and Dengue Haemorrhagic Fever.
+
+Dengue is not contagious and does not spread from person to person by physical contact.
+
+The most effective way of preventing dengue fever is by taking precautions to avoid being bitten by mosquitoes.
+
+Dengue fever is caused by a virus which is transmitted by an infected Aedes mosquito - Aedes aegypti and Aedes albopictus.
+
+Mosquitoes become infected when they bite infected humans, and later transmit infection to other people they bite.
+
+The disease usually is self-limiting but in some people can present with life-threatening complications such as Dengue Haemorrhagic Fever and Dengue Shock Syndrome.
+    </string>
+
+    <string name="symp"><p>
+        The symptoms usually develop within 4-7 days after being bitten by an infected mosquito. Symptoms of classic dengue include:
+
+High fever (up to 40.6 C)
+Severe headache with retro-orbital (behind the eye) pain
+Severe joint and muscle pain
+Nausea and vomiting
+Body rash which appears on day 3 or 4
+Dengue Hemorrhagic Fever is a severe form of dengue fever which can result in death and is characterized by:
+
+Severe bleeding from the nose, gums, or under the skin causing purplish bruises
+Dengue Shock Syndrome is the most severe form which usually occurs in children having a re-infection and is sometimes fatal. It often presents with:
+
+Massive bleeding
+Shock (very low blood pressure)</p>
+    </string>
+
+    <string name="treat"><p>
+        There is no specific treatment for dengue fever and most people recover within 2 weeks. To help with recovery, general measures include:
+
+Getting plenty of bed rest
+Drinking lots of fluids
+Taking medicine to reduce fever. Avoid aspirin but paracetamol is considered safe
+For severe dengue symptoms including shock and coma, hospitalisation and aggressive emergency treatment with fluid and electrolyte replacement may be necessary to save lives.
+    </p></string>
+
+    <string name="prev"><p>
+        The best way to prevent dengue fever is by taking precautions to avoid being bitten by mosquitoes which include:
+
+Using a mosquito repellent containing DEET, or oil of lemon eucalyptus
+Dressing in protective clothing during the day-long-sleeved shirts, long pants, socks, and shoes especially in early morning hours before day break and in late afternoon after dark.
+Keeping unscreened windows and doors closed
+Getting rid of areas where mosquitoes breed, such as standing water in flower pots, containers, and bamboos etc
+    </p></string>
+</resources>
